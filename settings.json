@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TheAuraMonster.aternos.me",
-    "port": 43336,
+    "ip": "DamVasta.aternos.me",
+    "port": 52222,
     "version": "1.20.1",
     "try-creative": false
   },
