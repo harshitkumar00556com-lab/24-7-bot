@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DamVasta.aternos.me",
-    "port": 52222,
+    "ip": "NotMg890.aternos.me",
+    "port": 12829,
     "version": "1.20.1",
     "try-creative": false
   },
